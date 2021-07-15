@@ -1,1 +1,1 @@
-# LFACT
+# Layer Flexible Adaptive Computation Time
